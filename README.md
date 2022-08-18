@@ -8,3 +8,9 @@
     * IRIS EDA [html](https://bestofge.github.io/MyDataAnalysis/IRIS_BASIC01.html)
 	  * IRIS 기본 모델 만들기 [html]()
 	  * IRIS 모델 평가 [html]()
+
+## [Airbnb 데이터 분석해 보기]
+ * 데이터 참조 : https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
+ * 이미지
+ * 내용 : Airbnb 예약 데이터세트에 관한 EDA를 정리한다.
+  * 

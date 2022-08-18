@@ -12,5 +12,4 @@
 ## [Airbnb 데이터 분석해 보기]
  * 데이터 참조 : https://www.kaggle.com/datasets/arianazmoudeh/airbnbopendata
 ![airbnb_data](https://user-images.githubusercontent.com/82525776/185288497-1f830296-c621-44b2-aec0-a95ebcf0972f.jpg)
- * 내용 : Airbnb 예약 데이터세트에 관한 EDA를 정리한다.
-  * 
+ * 내용 : Airbnb 숙소 예약 데이터세트에 관한 EDA를 정리한다.
